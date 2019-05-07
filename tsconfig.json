@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "none",
+    "charset": "utf-8",
+    "newLine": "LF",
+    "moduleResolution": "node",
+    "noImplicitUseStrict": true,
+    "skipLibCheck": true,
+    "declaration": true,
+    "outDir": "dist",
+  }
+}
